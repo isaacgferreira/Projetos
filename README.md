@@ -1,14 +1,15 @@
 # Projetos
 
-Projeto desenvolvido em Spring Boot
+Projeto de uma Api Rest com autenticação basica e cadastro de produto e usuário básicos.
 
-Api com autenticação basica (Basic Auth)
+Projeto desenvolvido em Spring Boot pode ser executado pela ide eclipse, ou outra de sua preferencia.
+É necessario ter instalado o java e o banco MySql.
 
 Banco em MySql Nome do banco = crud-apirest 
-Autenticação do Banco 
-usuário = root 
-senha = admin
-Tabelas criadas na execução do projeto
+Autenticação do Banco usuário = root 
+senha = admin 
+As tabelas são criadas na execução do projeto.
+Caso queria alterar a altenticação do banco, deve alterar no application.properties
 
 Criar um usuário pelo método post para autenticar e ter acesso aos outros métodos
 
